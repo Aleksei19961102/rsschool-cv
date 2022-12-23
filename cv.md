@@ -11,3 +11,12 @@ Hardworking project manager focused on completing work quickly to consistently e
 * Creative thinking
 * Teamwork
 * Multitasking
+====================
+## EDUCATION
+**NATIONAL TECHNICAL UNIVERSITY OF UKRAINE “IGOR SIKORSKY KYIV POLYTECHNIC INSTITUTE”, KYIV, UKRAINE**
+_Electrical energetics, electrical engineering and electromechanics, Master degree, December, 2020_
+## LANGUAGES
+===================
++ Ukrainian - native speaker;
++ Russian - native speaker;
++ English - advanced.
